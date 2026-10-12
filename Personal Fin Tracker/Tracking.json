@@ -1,0 +1,26 @@
+[
+    {
+        "Amount": 500,
+        "Type": "Expense",
+        "Description": "Shopping",
+        "Date": "2026-10-12 07:42:24"
+    },
+    {
+        "Amount": 200,
+        "Type": "Expense",
+        "Description": "Recharge",
+        "Date": "2026-10-12 07:42:38"
+    },
+    {
+        "Amount": 10000,
+        "Type": "Income",
+        "Description": "Salary",
+        "Date": "2026-10-12 07:42:45"
+    },
+    {
+        "Amount": 5000,
+        "Type": "Saving",
+        "Description": "Saved",
+        "Date": "2026-10-12 07:42:55"
+    }
+]
