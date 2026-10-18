@@ -1,0 +1,29 @@
+{
+    "students": [
+        {
+            "name": "Hardeep Singh Ghotra",
+            "age": 20,
+            "email": "hardeepsghotra8181@gmail.com",
+            "roll_no": "20",
+            "grades": {
+                "Maths": 90.0
+            }
+        },
+        {
+            "name": "Meet",
+            "age": 20,
+            "email": "hg110706@gmail.com",
+            "roll_no": "1",
+            "grades": {}
+        }
+    ],
+    "teachers": [
+        {
+            "name": "Siddhi Wankhede",
+            "age": 20,
+            "email": "swankhede@gmail.com",
+            "emp_id": "3",
+            "subjects": "Creative"
+        }
+    ]
+}
